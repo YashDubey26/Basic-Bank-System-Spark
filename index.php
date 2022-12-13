@@ -103,8 +103,9 @@ box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
 <div class="main_div">
  
      <div class="navbar navbar-expand-md">
-   
-      <a href="#" class="navbar-brand font-weight-bold text-white text-center"><h2>TSF BANK</h2></a>
+    <img src="statics\logo1.jpg" alt=""
+                    style="height: 80px; margin-left:25px; margin-top:10px;"></a>
+      <a href="#" class="navbar-brand font-weight-bold text-white text-center"><h2>SPARKS BANK</h2></a>
       <button class="navbar-toggler text-white " type="button" data-toggle="collapse" data-target="#collapsenavbar">
       <span class="navbar-toggler-icon" style="background:white;"></span>
       </button>
@@ -130,7 +131,7 @@ box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
         <div class="row">
 
           <div class="col-sm-6">
-            <h1 class="main_text">TSF BANK</h1>
+            <h1 class="main_text">THE SPARKS FOUNDATIONS BANK</h1>
             <p style="text-align: justify;"class="big-text">“Business and life are like a bank account you can’t take out more than you put in. If banks cannot truly be customer intimate, they are doomed to be just dumb commodities, acting behind the scenes, like utilities.However, you’ll start with the same writing process. Let’s explore the set-by-step guide to building your about page.Every business has a story to tell. Even if you’re running a startup with a brief history, you’ll want to share your company’s progress. Talk about how you got to where you are today on your about page.</p>
           </div>
 
