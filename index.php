@@ -157,15 +157,16 @@ box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
         </div>
         <div class="container">
        
-        <img src="images/Ab1.jpg" class="img-fluid" width="560" height="345" style="margin-top:20px;"> 
+        <img src="images/Profile_Picture.jfif" class="img-fluid" width="450" height="345" style="margin-top:20px; margin-left:50px"> 
         
             <div class="row">
                 <div class="col-lg-10 col-md-10 col-10 offset-lg-2 offet-md-2-col col-1">
 
                     <form action="/action_page.php">
                 
-                        <p style="font-weight:italic;text-align: justify; margin-top:-360px; margin-left:400px">A remarkable about page is genuine, approachable, and distinguished. It should give the visitor a glimpse into what working with you might be like. You can include personal interests, stories, and photos that convey the unique story of your business. <br>You may also include information about who’s on your team and what their roles are. About pages are personal to you and your company, so the structure of your about page will vary based on what you want to highlight. However, you’ll start with the same writing process. Let’s explore the set-by-step guide to building your about page.Every business has a story to tell. Even if you’re running a startup with a brief history, you’ll want to share your company’s progress. Talk about how you got to where you are today on your about page.</p>
-                                  <div class="formbutton" style="display: flex;justify-content: center; margin-left:30px">
+                        <p style="font-weight:italic;text-align: justify; margin-top:-450px; margin-left:350px">A remarkable about page is genuine, approachable, and distinguished. It should give the visitor a glimpse into what working with you might be like. You can include personal interests, stories, and photos that convey the unique story of your business. <br>You may also include information about who’s on your team and what their roles are. About pages are personal to you and your company, so the structure of your about page will vary based on what you want to highlight. However, you’ll start with the same writing process. Let’s explore the set-by-step guide to building your about page.Every business has a story to tell. Even if you’re running a startup with a brief history, you’ll want to share your company’s progress. Talk about how you got to where you are today on your about page. 
+                        An excellent About page not only narrates your story, values, and gives an inside look into how your business came to be, but it also helps sell. When prospects learn your story and connect with it, they’re likely to buy from you. A well-planned About Us page can do all this! So without further ado, let’s walk you through how to write such a converting About Us page.</p>
+                                  <div class="formbutton" style="display: flex;justify-content: center; margin-left:-100px">
                         <button type="submit" >Read More</button></div>
                       </form>
                 </div>
