@@ -103,7 +103,7 @@ box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
 <div class="main_div">
  
      <div class="navbar navbar-expand-md">
-    <img src="statics\logo1.jpg" alt=""
+    <img src="statics\logo1.jpg" alt="The Spark Foundation"
                     style="height: 80px; margin-left:25px; margin-top:10px;"></a>
       <a href="#" class="navbar-brand font-weight-bold text-white text-center"><h2>SPARKS BANK</h2></a>
       <button class="navbar-toggler text-white " type="button" data-toggle="collapse" data-target="#collapsenavbar">
@@ -127,7 +127,7 @@ box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
         </div>
      </div>
 
-     <div class="container">
+     <div class="container" style="margin-top:-10px;">
         <div class="row">
 
           <div class="col-sm-6">
